@@ -1,0 +1,26 @@
+{
+  "description": "ΜΠΟΡΕΙ ΝΑ ΑΝΑΚΥΚΚΛΩΘΕΙ ",
+  "image": "https://sapphire-wooden-hedgehog-451.mypinata.cloud/ipfs/QmaQYCrX9Fg2kGijqapTYgpMXV7QPPzMwGrSRfV9TvTsfM/Creature_1.png",
+  "name": "Clothes NFTS #1",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Wool"
+    },
+    {
+      "trait_type": "cut",
+      "value": "Regular"
+    }
+]}

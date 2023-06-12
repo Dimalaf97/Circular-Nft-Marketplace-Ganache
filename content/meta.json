@@ -1,0 +1,54 @@
+[{
+  "description": "ΜΠΟΡΕΙ ΝΑ ΑΝΑΚΥΚΚΛΩΘΕΙ ",
+  "image": "https://pin.ski/3IcR3zw",
+  "name": "Clothes NFTS #1",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Wool"
+    },
+    {
+      "trait_type": "cut",
+      "value": "Regular"
+    }
+  ]
+},
+{
+  "description": "ΜΠΟΡΕΙ ΝΑ ΑΝΑΚΥΚΚΛΩΘΕΙ ",
+  "image": "https://pin.ski/3nU6ENu",
+  "name": "Clothes NFTS #2",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "20"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "20"
+    },
+    {
+      "trait_type": "Size",
+      "value": "20"
+    },
+    {
+      "trait_type": "Material",
+      "value": "100"
+    },
+    {
+      "trait_type": "cut",
+      "value": "30"
+    }
+  ]
+}]
